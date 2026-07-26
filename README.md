@@ -13,4 +13,4 @@
 ## 📜 Лицензия и авторы
 * Оригинальное аппаратное обеспечение и код: Émilie Gillet (Mutable Instruments) — Лицензия MIT.
 * Модификация Parasites: Matthias Puech — Лицензия GPL3.0/MIT.
-* Адаптация под Dual Crystal DIY: [Ваше Имя/Никнейм].
+* Адаптация под Dual Crystal DIY: HaggardT.
